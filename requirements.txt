@@ -134,7 +134,7 @@ uWSGI==2.0.12
 virtkey==0.63.0
 virtualenv==16.4.1
 visitor==0.1.2
-waitress==1.2.1
+waitress==1.4.1
 WebOb==1.8.5
 WebTest==2.0.30
 Werkzeug==0.14.1
