@@ -27,7 +27,7 @@ dirspec==13.10
 dominate==2.2.0
 enum-compat==0.0.2
 environs==4.0.0
-eventlet==0.21.0
+eventlet==0.31.0
 factory-boy==2.11.1
 Faker==1.0.2
 flake8==2.5.4
