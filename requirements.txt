@@ -68,7 +68,7 @@ Jinja2==2.10
 jsonschema==3.0.0
 kombu==3.0.35
 louis==2.6.4
-lxml==3.5.0
+lxml==4.6.5
 Mako==1.0.7
 Markdown==2.6.6
 MarkupSafe==1.1.1
